@@ -13,7 +13,10 @@ Here you can learn Rusted Script and review it.
 [Types of data](https://github.com/Rusted-Script/Docs/blob/master/src/types_of_data.md)
 
 [variables](https://github.com/Rusted-Script/Docs/blob/master/src/variables.md)
+
 [comments](https://github.com/Rusted-Script/Docs/blob/master/src/comments.md)
+
+[include files](https://github.com/Rusted-Script/Docs/blob/master/src/include_files.md)
 
 ##
 
