@@ -6,6 +6,8 @@ Here you can learn Rusted Script and review it.
 
 ##
 
+[Setup](https://github.com/Rusted-Script/Docs/blob/master/src/setup.md)
+
 [If Statements](https://github.com/Rusted-Script/Docs/blob/master/src/if_statements.md)
 
 [math](https://github.com/Rusted-Script/Docs/blob/master/src/math.md)
