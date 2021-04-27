@@ -20,6 +20,8 @@ Here you can learn Rusted Script and review it.
 
 [include files](https://github.com/Rusted-Script/Docs/blob/master/src/include_files.md)
 
+[Modules](https://github.com/Rusted-Script/Docs/blob/master/src/modules.md)
+
 ##
 
 When I release new updates I will also update the Rusted Script docs.
