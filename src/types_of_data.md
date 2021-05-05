@@ -1,6 +1,6 @@
 # Data types
 
-Rust Script has the following data types;
+Rusted Script has the following data types;
 - Boolean
    - true
    - false (none, null, 0)
