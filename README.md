@@ -108,7 +108,20 @@ Extra: Variables are stored in the system's memory and be used to store and retr
 
 ## Modules
 
-Not Included still!
+Modules can be included using the `use_module()` function!
+
+### Example
+
+
+```js
+// rusted_modules/my_package/index.rusted
+var my_number = 99
+```
+```js
+// file.rusted
+use_module("my_package") // include the package
+my_number // show the variable
+```
 
   
 
