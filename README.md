@@ -2,7 +2,7 @@
 The Rusted Script programing language docs
 
 #
-Here you can learn Rusted Script and review it.
+Here you will learn Rusted Script and review it.
 
 ##
 
