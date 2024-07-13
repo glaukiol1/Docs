@@ -1,5 +1,5 @@
 # If Statements
-If statements allow you to check if a certain condition is met, for example, `if 1 == 1 then .......`. This statement would be true, since the number 1 is equal to number 1.
+If statements will allow you to check if a certain condition is met or not, for example, `if 1 == 1 then .......`. This statement would be true, since the number 1 is equal to number 1.
 
 ## Examples Of If Statements;
 ```
